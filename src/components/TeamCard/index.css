@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.li-element {
+  list-style-type: none;
+  border: 1px solid #475569;
+  background-color: #475569;
+  padding: 10px;
+  border-radius: 12px;
+  height: auto;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 10px;
+}
+.team-url {
+  height: 120px;
+  width: 120x;
+  margin-right: 10px;
+}
+.t-head {
+  font-size: 25px;
+  padding: 10px;
+  font-weight: 500;
+}
+.team-card-link {
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: inset;
+  color: white;
+}

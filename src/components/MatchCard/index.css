@@ -1,0 +1,40 @@
+.li-match-element {
+  background-color: #0f172a;
+  list-style-type: none;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px;
+  width: 350px;
+}
+.comp {
+  height: 180px;
+  width: 180px;
+  margin: 10px;
+}
+.c-head {
+  font-size: 29px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.c-para {
+  font-weight: 400;
+  margin-bottom: 20px;
+  text-align: center;
+  width: 200px;
+}
+.c-hello {
+  font-weight: 600;
+  font-size: 30px;
+  color: green;
+  padding: 10px;
+}
+.p-hello {
+  font-weight: 600;
+  font-size: 30px;
+  color: red;
+  padding: 10px;
+}

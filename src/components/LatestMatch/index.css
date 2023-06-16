@@ -1,0 +1,57 @@
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  height: auto;
+  background-color: #0f172a;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  color: white;
+  width: 80%;
+}
+.card1 {
+  margin-left: 10px;
+}
+.l-head {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.l-date {
+  font-weight: 500;
+  padding: 5px;
+  font-size: 26px;
+}
+.l-venue {
+  font-weight: 400;
+  font-size: 17px;
+  margin-bottom: 15px;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+}
+.comp-logo {
+  height: 150px;
+  width: 150px;
+  margin-top: 70px;
+}
+.l-1 {
+  font-weight: 500;
+  margin-bottom: 8px;
+  padding-top: 10px;
+  font-size: 17px;
+}
+.l-op {
+  font-weight: 400;
+  font-size: 21px;
+  margin-top: 20px;
+}
+.l-2 {
+  font-weight: 400;
+  margin-bottom: 4;
+  font-size: 13px;
+}
